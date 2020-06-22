@@ -5,8 +5,8 @@ const config = {
   database: 'sequelize_stretch',
   dialect: 'postgres',
   logging: false,
-  password: process.env.DB_PASSWORD,
-  username: process.env.DB_USERNAME,
+  password: 'jjf11ltf8',
+  username: 'postgres',
 };
 
 const Sequelize = require('sequelize');
